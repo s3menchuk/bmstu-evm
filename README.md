@@ -1,6 +1,8 @@
 # Архитектура ЭВМ
 
-- [Триггеры](https://github.com/s3menchuk/bmstu-evm/tree/main/triggers)
-- [Дешифраторы](https://github.com/s3menchuk/bmstu-evm/tree/main/decoders)
-- [Счетчики](https://github.com/s3menchuk/bmstu-evm/tree/main/counters)
-- [Мультиплексоры](https://github.com/s3menchuk/bmstu-evm/tree/main/multiplexers)
+## 4 семестр
+
+- [Триггеры](https://github.com/s3menchuk/bmstu-evm/tree/main/4sem/triggers)
+- [Дешифраторы](https://github.com/s3menchuk/bmstu-evm/tree/main/4sem/decoders)
+- [Счетчики](https://github.com/s3menchuk/bmstu-evm/tree/main/4sem/counters)
+- [Мультиплексоры](https://github.com/s3menchuk/bmstu-evm/tree/main/4sem/multiplexers)
